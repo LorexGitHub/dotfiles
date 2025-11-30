@@ -1,0 +1,13 @@
+import open3d as o3d
+
+def visualize_pcd(path) :
+    pcd = o3d.io.read_point_cloud(path)
+    o3d.visualization.draw_geometries([pcd])
+
+
+def visualize_mesh(path) :
+    mesh = o3d.io.read_triangle_mesh(path)
+    o3d.visualization.draw_geometries([mesh], mesh_show_back_face = True)
+
+visualize_pcd("/home/david/Uni/Text-to-3D/video-23-11-2025-1/CS2_Train/pts.ply")
+#visualize_mesh("/home/david/Uni/Text-to-3D/video-23-11-2025-1/CS2_Train/mesh.ply")

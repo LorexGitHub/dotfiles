@@ -1,0 +1,30 @@
+2025/11/26-14:51:38.285 2df1 Reusing MANIFEST /home/david/.config/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/26-14:51:38.286 2df1 Recovering log #127
+2025/11/26-14:51:38.290 2df1 Reusing old log /home/david/.config/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000127.log 
+2025/11/26-14:51:39.407 2df1 Level-0 table #134: started
+2025/11/26-14:51:39.422 2df1 Level-0 table #134: 165268 bytes OK
+2025/11/26-14:51:39.434 2df1 Delete type=0 #127
+2025/11/26-14:51:39.435 2df1 Manual compaction at level-0 from '\x00(\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00)\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/26-14:51:42.684 2df1 Compacting 1@1 + 3@2 files
+2025/11/26-14:51:42.776 2df1 Generated table #135@1: 37596 keys, 2201075 bytes
+2025/11/26-14:51:42.870 2df1 Generated table #136@1: 50415 keys, 2202385 bytes
+2025/11/26-14:51:42.934 2df1 Generated table #137@1: 39882 keys, 930195 bytes
+2025/11/26-14:51:42.934 2df1 Compacted 1@1 + 3@2 files => 5333655 bytes
+2025/11/26-14:51:42.946 2df1 compacted to: files[ 0 0 3 0 0 0 0 ]
+2025/11/26-14:51:42.946 2df1 Delete type=2 #129
+2025/11/26-14:51:42.946 2df1 Delete type=2 #130
+2025/11/26-14:51:42.946 2df1 Delete type=2 #131
+2025/11/26-14:51:42.946 2df1 Delete type=2 #134
+2025/11/26-14:51:48.969 2df1 Level-0 table #139: started
+2025/11/26-14:51:49.006 2df1 Level-0 table #139: 1058908 bytes OK
+2025/11/26-14:51:49.017 2df1 Delete type=0 #133
+2025/11/26-14:51:49.027 2df1 Compacting 1@1 + 3@2 files
+2025/11/26-14:51:49.115 2df1 Generated table #140@1: 50167 keys, 2264388 bytes
+2025/11/26-14:51:49.208 2df1 Generated table #141@1: 43069 keys, 2202402 bytes
+2025/11/26-14:51:49.278 2df1 Generated table #142@1: 57913 keys, 1347891 bytes
+2025/11/26-14:51:49.278 2df1 Compacted 1@1 + 3@2 files => 5814681 bytes
+2025/11/26-14:51:49.290 2df1 compacted to: files[ 0 0 3 0 0 0 0 ]
+2025/11/26-14:51:49.290 2df1 Delete type=2 #135
+2025/11/26-14:51:49.290 2df1 Delete type=2 #136
+2025/11/26-14:51:49.290 2df1 Delete type=2 #137
+2025/11/26-14:51:49.290 2df1 Delete type=2 #139

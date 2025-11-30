@@ -1,0 +1,17 @@
+2025-11-27 11:04:42.429 [info] Getting Manifest... ms-python.vscode-pylance
+2025-11-27 11:04:42.430 [info] Getting Manifest... ms-vscode.cpptools
+2025-11-27 11:04:42.874 [info] Installing extension: ms-python.vscode-pylance {"productVersion":{"version":"1.106.2","date":"2025-11-19T16:56:50.023Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/david/.vscode/extensions/extensions.json","path":"/home/david/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-11-27 11:04:42.880 [info] Installing extension: ms-vscode.cpptools {"installPreReleaseVersion":true,"productVersion":{"version":"1.106.2","date":"2025-11-19T16:56:50.023Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/david/.vscode/extensions/extensions.json","path":"/home/david/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-11-27 11:04:43.122 [info] Installing extension: ms-vscode.cpptools {"installPreReleaseVersion":true,"productVersion":{"version":"1.106.2","date":"2025-11-19T16:56:50.023Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/david/.config/Code/User/profiles/548144b0/extensions.json","path":"/home/david/.config/Code/User/profiles/548144b0/extensions.json","scheme":"vscode-userdata"}}
+2025-11-27 11:04:55.529 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Internal Code: 0. Executed: true. Duration: 2626ms.
+2025-11-27 11:05:04.670 [info] Extracted extension to file:///home/david/.vscode/extensions/ms-python.vscode-pylance-2025.10.2: ms-python.vscode-pylance
+2025-11-27 11:05:05.304 [info] Renamed to /home/david/.vscode/extensions/ms-python.vscode-pylance-2025.10.2
+2025-11-27 11:05:05.379 [info] Marked extension as removed ms-python.vscode-pylance-2025.9.1
+2025-11-27 11:05:05.435 [info] Extension installed successfully: ms-python.vscode-pylance vscode-userdata:/home/david/.vscode/extensions/extensions.json
+2025-11-27 11:05:12.305 [info] Extension signature verification result for ms-vscode.cpptools: Success. Internal Code: 0. Executed: true. Duration: 2033ms.
+2025-11-27 11:05:16.925 [info] Extracted extension to file:///home/david/.vscode/extensions/ms-vscode.cpptools-1.29.1-linux-x64: ms-vscode.cpptools
+2025-11-27 11:05:16.976 [info] Renamed to /home/david/.vscode/extensions/ms-vscode.cpptools-1.29.1-linux-x64
+2025-11-27 11:05:17.059 [info] Marked extension as removed ms-vscode.cpptools-1.29.0-linux-x64
+2025-11-27 11:05:17.137 [info] Extension installed successfully: ms-vscode.cpptools vscode-userdata:/home/david/.config/Code/User/profiles/548144b0/extensions.json
+2025-11-27 11:05:17.138 [info] Extension installed successfully: ms-vscode.cpptools vscode-userdata:/home/david/.vscode/extensions/extensions.json
+2025-11-27 11:05:17.140 [info] Marked extension as removed ms-vscode.cpptools-1.29.0-linux-x64

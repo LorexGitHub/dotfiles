@@ -1,0 +1,103 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "35e1d6a18481d29e552fa35769641c61a2a465501a72c5e8ddbca2c4358c2bf6",
+    "telemetry.devDeviceId": "51bd4346-9791-4a69-ad5c-d9bad6f994e1",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/david/Uni/Text-to-3D"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "vscode-remote://ssh-remote%2Bpalma/scratch/tmp/dmetzdor": "__default__profile__",
+            "vscode-remote://ssh-remote%2Bpalma/scratch/tmp/dmetzdor/models/HunyuanWorld-Mirror": "__default__profile__",
+            "file:///home/david/Uni/BS/BS_Blatt_3": "__default__profile__",
+            "file:///home/david/Uni/BS/blatt3_code_solved": "__default__profile__",
+            "file:///home/david/Uni/Text-to-3D": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#2e3440",
+    "windowSplash": {
+        "zoomLevel": 2,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#d8dee9",
+            "background": "#2e3440",
+            "editorBackground": "#2e3440",
+            "titleBarBackground": "#2e3440",
+            "titleBarBorder": "rgba(46, 52, 64, 0)",
+            "activityBarBackground": "#2e3440",
+            "sideBarBackground": "#2e3440",
+            "sideBarBorder": "#3b4252",
+            "statusBarBackground": "#3b4252",
+            "statusBarBorder": "rgba(59, 66, 82, 0)",
+            "statusBarNoFolderBackground": "#3b4252"
+        },
+        "layoutInfo": {
+            "sideBarSide": "right",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 198,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 0,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/david/Uni/Text-to-3D",
+            "backupPath": "/home/david/.config/Code/Backups/e15fffdb4ec9930805e074ec3c3a2bc6",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 1280,
+                "height": 720,
+                "zoomLevel": 0
+            }
+        },
+        "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 198,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "384af070ceaf290fbcae25cf311fb49d": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "f8736f3eea967adfefabb595db5c6f4d": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "d19032b501534111c39c220f82d3d91f": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "01e3093b3a0a908658d2e8d18e07b0a6": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "ff7242949d3d3c1a9a1e645761398b9a": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    },
+    "userDataProfiles": [
+        {
+            "location": "548144b0",
+            "name": "palma"
+        }
+    ]
+}

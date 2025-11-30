@@ -1,0 +1,22 @@
+2025-11-27 11:04:45.308 [info] (Client) Pylance client (2025.9.1) started with python extension (2025.18.0)
+2025-11-27 11:04:47.165 [info] (2834) Server root directory: file:///home/david/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist
+2025-11-27 11:04:47.167 [info] (2834) Pylance language server 2025.9.1 (pyright version 1.1.406, commit 20aa20a1) starting
+2025-11-27 11:04:47.183 [info] (2834) Starting service instance "Text-to-3D" for workspace "/home/david/Uni/Text-to-3D"
+2025-11-27 11:04:47.415 [info] (2834) Setting environmentName for service "Text-to-3D": "3.10.19 (open3d_env venv)"
+2025-11-27 11:04:47.416 [info] (2834) Setting pythonPath for service "Text-to-3D": "/home/david/Uni/Text-to-3D/open3d_env/bin/python"
+2025-11-27 11:04:47.417 [info] (2834) No include entries specified; assuming /home/david/Uni/Text-to-3D
+2025-11-27 11:04:47.431 [info] (2834) Auto-excluding **/node_modules
+2025-11-27 11:04:47.431 [info] (2834) Auto-excluding **/__pycache__
+2025-11-27 11:04:47.431 [info] (2834) Auto-excluding **/.*
+2025-11-27 11:04:47.630 [info] (2834) Assuming Python version 3.10.19.final.0
+2025-11-27 11:04:47.835 [info] (2834) Auto-excluding /home/david/Uni/Text-to-3D/open3d_env
+2025-11-27 11:04:47.955 [info] (2834) Found 2 source files
+2025-11-27 11:04:47.964 [info] (2834) Settings have not changed. Skipping update.
+2025-11-27 11:04:49.701 [info] (2834) BG: Priority queue background worker(2) root directory: file:///home/david/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist
+2025-11-27 11:04:49.707 [info] (2834) BG: Priority queue background worker(2) started
+2025-11-27 11:04:49.811 [info] (2834) Starting Mcp server id:4246 ...
+2025-11-27 11:04:50.099 [info] (2834) BG: Indexer background runner(3) root directory: file:///home/david/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist (index)
+2025-11-27 11:04:50.099 [info] (2834) BG: Indexing(3) started
+2025-11-27 11:04:52.102 [info] (2834) BG: scanned(3) 255 files over 1 exec env
+2025-11-27 11:04:52.721 [info] (2834) BG: indexed(3) 255 files over 1 exec env
+2025-11-27 11:04:52.845 [info] (2834) BG: Indexing finished(3).

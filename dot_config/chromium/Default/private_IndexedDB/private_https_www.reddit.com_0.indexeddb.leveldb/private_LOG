@@ -1,0 +1,7 @@
+2025/11/10-20:33:29.961 1ca8 Reusing MANIFEST /home/david/.config/chromium/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/10-20:33:29.961 1ca8 Recovering log #3
+2025/11/10-20:33:29.962 1ca8 Reusing old log /home/david/.config/chromium/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000003.log 
+2025/11/10-20:34:01.978 1ca9 Level-0 table #5: started
+2025/11/10-20:34:01.983 1ca9 Level-0 table #5: 2430 bytes OK
+2025/11/10-20:34:01.994 1ca9 Delete type=0 #3
+2025/11/10-20:34:01.994 1ca9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
