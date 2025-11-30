@@ -1,2 +1,4 @@
 dot_config/Code/**/*.cache filter=lfs diff=lfs merge=lfs -text
 *.vsix filter=lfs diff=lfs merge=lfs -text
+dot_config/Code/private_Cache/** filter=lfs diff=lfs merge=lfs -text
+dot_config/Code/CachedExtensionVSIXs/** filter=lfs diff=lfs merge=lfs -text
