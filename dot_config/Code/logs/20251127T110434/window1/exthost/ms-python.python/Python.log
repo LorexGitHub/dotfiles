@@ -1,7 +1,0 @@
-2025-11-27 11:04:41.983 [info] Native locator: Refresh started
-2025-11-27 11:04:42.320 [info] Native locator: Refresh started
-2025-11-27 11:04:44.514 [info] > pyenv which python
-2025-11-27 11:04:44.514 [info] cwd: .
-2025-11-27 11:04:44.724 [info] Native locator: Refresh finished in 3753 ms
-2025-11-27 11:04:44.729 [info] Python interpreter path: ./open3d_env/bin/python
-2025-11-27 11:04:47.233 [info] Starting Pylance language server.
